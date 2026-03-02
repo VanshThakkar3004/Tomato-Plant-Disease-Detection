@@ -8,6 +8,12 @@ For Soil Images Dataset: "https://drive.google.com/file/d/1VvFJrbmQmUnuIpCxBGlVx
 For Tomato Leaf Dataset :
 
 
+MobileNetV2_tomato_leaf_disease.pth
+EfficientNetB0_tomato_leaf_disease.pth are Pre trained Models on Collab 
+
+
+Tomatopred.py is the Main Python File
+
 $ requirements2.txt
 
 
