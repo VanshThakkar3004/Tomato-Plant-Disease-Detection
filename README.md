@@ -8,7 +8,7 @@ For Soil Images Dataset: "https://drive.google.com/file/d/1VvFJrbmQmUnuIpCxBGlVx
 For Tomato Leaf Dataset :
 
 
-$ requirements.txt
+$ requirements2.txt
 
 
 **🍅Main Command to Run ----$: streamlit run Tomatopred.py**
