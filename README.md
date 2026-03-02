@@ -5,7 +5,7 @@ It is a Webapp to analyse Diseases in Plant by Analysis through different Plant 
 
 For Soil Images Dataset: "https://drive.google.com/file/d/1VvFJrbmQmUnuIpCxBGlVxxE-bRjcvfkx/view?usp=drive_link"
 
-For Tomato Leaf Dataset :
+For Tomato Leaf Dataset : "https://drive.google.com/file/d/1WIELZz9_86ENWg0TvzcLEoCay41XsG8U/view?usp=drive_link"
 
 
 MobileNetV2_tomato_leaf_disease.pth
