@@ -16,7 +16,7 @@ Tomatopred.py is the Main Python File
 
 $ requirements2.txt
 
-Command to Install all Libraries
+Command to Install all Libraries : 
 pip install "streamlit>=1.31.0" "torch>=2.2.0" "torchvision>=0.17.0" "Pillow>=10.2.0" "matplotlib>=3.8.0" "reportlab>=4.1.0"
 
 **🍅Main Command to Run ----$: streamlit run Tomatopred.py**
