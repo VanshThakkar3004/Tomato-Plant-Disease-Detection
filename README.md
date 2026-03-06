@@ -9,7 +9,7 @@ For Tomato Leaf Dataset : "https://drive.google.com/file/d/1WIELZz9_86ENWg0TvzcL
 
 
 
-MobileNetV2_tomato_leaf_disease.pth,     EfficientNetB0_tomato_leaf_disease.pth, soil_model.pth    are Pre trained Models on Collab 
+**MobileNetV2_tomato_leaf_disease.pth,**    **EfficientNetB0_tomato_leaf_disease.pth,**   **soil_model.pth**    are Pre trained Models on Collab 
 
 
 Tomatopred.py is the Main Python File
